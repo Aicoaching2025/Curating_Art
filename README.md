@@ -1,6 +1,6 @@
 # Curating_Art
 Applying Python lists to create a master list of paintings
-# Frida Kahlo Paintings 🎨
+## Frida Kahlo Paintings 🎨
 
 This dataset showcases famous paintings by Frida Kahlo along with their creation years.
 
